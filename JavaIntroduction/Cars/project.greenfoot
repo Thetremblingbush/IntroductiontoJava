@@ -1,0 +1,11 @@
+#Greenfoot properties
+#Fri Aug 09 10:21:04 PDT 2013
+class.CarPlayer.image=simple-travel-car-top_view.jpeg
+class.RoadWorld.image=imgres.jpeg
+class.RoadWorld.superclass=greenfoot.World
+class.PoliceCar.superclass=greenfoot.Actor
+class.PoliceCar.image=p-car-top-view-hi.png
+class.CarPlayer.superclass=greenfoot.Actor
+project.charset=UTF-8
+version=2.5.0
+world.lastInstantiated=RoadWorld
